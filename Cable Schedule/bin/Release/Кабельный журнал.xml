@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<settings>
+  <shapka>shapka_KJ</shapka>
+  <line>line_KJ</line>
+  <formatfirst>Формат А3_каб.журнал</formatfirst>
+  <formatnext>Формат А3_каб.журнал</formatnext>
+  <prefix>КЖ_</prefix>
+  <code>100</code>
+  <includingCode>0</includingCode>
+  <x>395</x>
+  <yshapka>287</yshapka>
+  <shapkaheight>27</shapkaheight>
+  <lineheight>8</lineheight>
+  <ymin>30</ymin>
+  <yminnext>30</yminnext>
+  <scale>mashtab</scale>
+  <marka>marka2</marka>
+  <coefficient>1,45</coefficient>
+  <KJmarka>КЖ</KJmarka>
+  <length_sp>Lenght_m_sp</length_sp>
+  <additional>15</additional>
+  <delete>1</delete>
+  <zero>1</zero>
+  <checkforwires>0</checkforwires>
+  <oldlength>0</oldlength>
+  <altitude>Up_Dn</altitude>
+  <place>Mesto_ust</place>
+  <purpose>NAME_TEH_POZ</purpose>
+  <carry_from>80</carry_from>
+  <carry_to>80</carry_to>
+  <carry_purpose>30</carry_purpose>
+  <carry_install_place>40</carry_install_place>
+  <purpose_opt1>1</purpose_opt1>
+  <purpose_opt2>1</purpose_opt2>
+  <purpose_opt3>0</purpose_opt3>
+  <purpose_opt4>1</purpose_opt4>
+</settings>
