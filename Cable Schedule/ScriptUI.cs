@@ -81,7 +81,7 @@ namespace Script
                 return;
             }
             if (!GetSettings()) Environment.Exit(0);    // получаем настройки ( и првоеряем на целостность )
-            DateTime start = e3c.ScriptStart(App, "Кабельный журнал ЭТО");  // выводим время начала скрипта, переменная старт нужна будет для вычисления времени работы
+            DateTime start = e3c.ScriptStart(App, "Кабельный журнал");  // выводим время начала скрипта, переменная старт нужна будет для вычисления времени работы
             CheckForIllegalCrossThreadCalls = false;    // доступен к элементам управления из под другого потока
             e3Job Prj = App.CreateJobObject();  // создаем интерфейс проекта
             codeSheetIds = new List<int>();   // для идентификаторов листов типа план трасс
@@ -109,7 +109,7 @@ namespace Script
                 lb_Status.Text = "Вывод на листы";
                 Output(App, Cab);   // вывод информации на листы
             }
-            e3c.ScriptEnd(App, "Кабельный журнал ЭТО", start);  // вывод времени окончания и времени работы
+            e3c.ScriptEnd(App, "Кабельный журнал", start);  // вывод времени окончания и времени работы
             Cables = null;
             lb_Status.Text = "Завершено";
             ni_script.ShowBalloonTip(5000, "Кабельный журнал", "Все задачи выполнены",ToolTipIcon.Info); // всплывающая подсказка в трее об окончании работы скрипта
@@ -470,7 +470,7 @@ namespace Script
         }
 
         /// <summary>
-        /// Вычисление выстного перехода у символа и добавление к длине кабеля
+        /// Вычисление высотного перехода у символа и добавление к длине кабеля
         /// </summary>
         /// <param name="App"></param>
         /// <param name="symIds"></param>

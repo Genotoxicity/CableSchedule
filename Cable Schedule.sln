@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cable Schedule", "Cable Schedule\Cable Schedule.csproj", "{83475F78-F206-4E20-B8E9-5B38F0BB2CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e3lib", "..\e3lib\e3lib\e3lib.csproj", "{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,16 +23,6 @@ Global
 		{83475F78-F206-4E20-B8E9-5B38F0BB2CF8}.Release|Mixed Platforms.Build.0 = Release|x86
 		{83475F78-F206-4E20-B8E9-5B38F0BB2CF8}.Release|x86.ActiveCfg = Release|x86
 		{83475F78-F206-4E20-B8E9-5B38F0BB2CF8}.Release|x86.Build.0 = Release|x86
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{F26BB3E7-5AE2-437E-9390-DB3E5FBF702E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

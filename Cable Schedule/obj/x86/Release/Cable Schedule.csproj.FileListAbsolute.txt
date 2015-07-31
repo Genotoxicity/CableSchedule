@@ -1,0 +1,10 @@
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Release\Кабельный журнал.exe
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Release\Кабельный журнал.pdb
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Release\CTDispatcher.dll
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Release\e3lib.dll
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\Script.ScriptUI.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\KSP.E3.CableSchedule.Properties.Resources.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\Script.Settings.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\Cable Schedule.csproj.GenerateResource.Cache
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\Кабельный журнал.exe
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Release\Кабельный журнал.pdb

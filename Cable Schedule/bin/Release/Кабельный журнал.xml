@@ -18,8 +18,8 @@
   <coefficient>1,45</coefficient>
   <KJmarka>ÊÆ</KJmarka>
   <length_sp>Lenght_m_sp</length_sp>
-  <additional>15</additional>
-  <delete>1</delete>
+  <additional>16</additional>
+  <delete>0</delete>
   <zero>1</zero>
   <checkforwires>0</checkforwires>
   <oldlength>0</oldlength>

@@ -1,0 +1,11 @@
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Debug\Кабельный журнал.exe
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Debug\Кабельный журнал.pdb
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Debug\CTDispatcher.dll
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\bin\Debug\e3lib.dll
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Cable Schedule.csprojResolveAssemblyReference.cache
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Script.ScriptUI.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\KSP.E3.CableSchedule.Properties.Resources.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Script.Settings.resources
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Cable Schedule.csproj.GenerateResource.Cache
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Кабельный журнал.exe
+D:\Altergot\Projects\C#\E3\Old\CableSchedule\Cable Schedule\obj\x86\Debug\Кабельный журнал.pdb

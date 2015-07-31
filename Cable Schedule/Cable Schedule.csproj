@@ -59,11 +59,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CTDispatcher">
-      <HintPath>..\..\CTDispatcher.dll</HintPath>
+      <HintPath>..\..\..\CTDispatcher.dll</HintPath>
     </Reference>
-    <Reference Include="e3lib, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\e3lib.dll</HintPath>
+    <Reference Include="e3lib">
+      <HintPath>..\..\..\e3lib.dll</HintPath>
     </Reference>
     <Reference Include="Interop.e3">
       <HintPath>..\..\..\Interop.e3.dll</HintPath>
